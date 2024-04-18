@@ -1,0 +1,48 @@
+.middle
+{
+    margin-left:40%;
+}
+
+body
+{
+    background-color:plum;
+}
+.forms
+{   background-color: gold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:65vh;
+    width:500px;
+    margin-left:32%
+    
+}
+input[type="text"]
+{
+    
+   border:0;
+   outline:0;
+   padding:12px;
+   background:transparent;
+   border-bottom: 1px solid black;
+}
+#sb
+{
+    background-color: blueviolet;
+    padding: 15px 32px;
+    border-radius:32px;
+    cursor: pointer;
+}
+.l1
+{
+    margin-right:45%;
+}
+.t1
+{
+    border:0;
+    outline:0;
+    padding:12px;
+    background:transparent;
+    border-bottom: 1px solid black;
+}
